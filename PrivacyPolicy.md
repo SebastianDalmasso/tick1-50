@@ -1,7 +1,8 @@
-# tick1-50
+# Tick1-50
 Game Tick 1-50
 
-privacy policy
+Privacy policy
+
 We do not collect any personal information from children with our Apps.
 
 We do not collect personally identifiable information about users of our applications or websites 
